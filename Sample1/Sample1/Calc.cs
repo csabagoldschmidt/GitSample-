@@ -27,5 +27,10 @@ namespace Sample1
         {
             
         }
+
+        public void Mult()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
