@@ -8,5 +8,10 @@ namespace Sample1
 {
     class Calc
     {
+        public void Add()
+        {
+            
+        }
+
     }
 }
