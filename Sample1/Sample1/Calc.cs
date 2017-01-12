@@ -13,5 +13,9 @@ namespace Sample1
             
         }
 
+        public void Div()
+        {
+            
+        }
     }
 }
